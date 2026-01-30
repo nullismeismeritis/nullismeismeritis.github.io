@@ -5,7 +5,7 @@
      <script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
      <script type="application/javascript">
           var converter = new showdown.Converter()
-          var url1 = "content.md" 
+          var url1 = "README.md" 
 //           var url1 = "https://nullismeismeritis.github.io/README.md" 
      </script>
   </head>
@@ -17,7 +17,7 @@
 
   <script type="application/javascript" >
     $.ajax({
-        url: 'content.md',
+        url: 'README.md',
         type: 'get',
         success: function(data) {
             var rendered = converter.makeHtml(data) 
