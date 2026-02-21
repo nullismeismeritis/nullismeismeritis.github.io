@@ -72,3 +72,8 @@ commenti o suggerimenti a [suggerimentilibri@gmail.com](mailto:suggerimentilibri
 
 - “Il diavolo odia il latino”
 
+## Narciso Feliciano Pelosini
+
+- Maestro Domenico
+
+
