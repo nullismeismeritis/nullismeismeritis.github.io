@@ -75,11 +75,16 @@ commenti o suggerimenti a [suggerimentilibri@gmail.com](mailto:suggerimentilibri
 
 ## Narciso Feliciano Pelosini
 
-- Maestro Domenico
+- "Maestro Domenico"
 
 ## Jules Verne 
 
-- Il Conte di Chanteleine
+- "Il Conte di Chanteleine"
 
+
+
+## Card. Wiseman
+
+- "Fabiola"
 
 
