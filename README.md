@@ -61,6 +61,7 @@ commenti o suggerimenti a [suggerimentilibri@gmail.com](mailto:suggerimentilibri
 
 - “Il miracolo di padre Malachia”
 - “Tutta la gloria nel profondo. Il mondo, la carne e Padre Smith”
+- "A ogni uomo un soldo"
 
 
 ## Ernest Hello:
