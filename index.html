@@ -66,8 +66,9 @@
 
   <script type="application/javascript" >
     $.ajax({
-        url: 'README.md',
+        url: 'README.md?v=' + new Date().getTime(),
         type: 'get',
+        cache: false,
         success: function(data) {
             var rendered = converter.makeHtml(data) 
             $("#rendered").html( rendered )
@@ -77,4 +78,3 @@
   </script>
 
 </html>
-
